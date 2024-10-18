@@ -29,8 +29,6 @@ git clone https://github.com/FazilKlkt/ini8-assignment.git
 1. Navigate to the project directory:
 
 ```
-
-Code
 cd ini8-assignment
 ```
 
